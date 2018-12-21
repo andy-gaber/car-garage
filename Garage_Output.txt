@@ -1,0 +1,31 @@
+JAV001 has been parked.
+JAV002 has been parked.
+JAV003 has been parked.
+JAV004 has been parked.
+JAV005 has been parked.
+JAV001 has departed. It had been moved 0 times.
+JAV004 has departed. It had been moved 0 times.
+JAV006 has been parked.
+JAV007 has been parked.
+JAV008 has been parked.
+JAV009 has been parked.
+JAV010 has been parked.
+JAV011 has been parked.
+JAV012 has been parked.
+Garage Full, Cannot Park Here
+Garage Full, Cannot Park Here
+JAV006 has departed. It had been moved 0 times.
+JAV014 is not located in the garage.
+JAV013 is not located in the garage.
+JAV005 has departed. It had been moved 1 times.
+JAV015 has been parked.
+JAV010 has departed. It had been moved 0 times.
+JAV002 has departed. It had been moved 4 times.
+JAV015 has departed. It had been moved 0 times.
+JAV013 is not located in the garage.
+JAV009 has departed. It had been moved 2 times.
+JAV003 has departed. It had been moved 6 times.
+JAV008 has departed. It had been moved 3 times.
+JAV007 has departed. It had been moved 4 times.
+JAV012 has departed. It had been moved 1 times.
+JAV011 has departed. It had been moved 2 times.
